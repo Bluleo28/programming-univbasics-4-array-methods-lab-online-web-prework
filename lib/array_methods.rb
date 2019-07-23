@@ -1,4 +1,5 @@
 using_include(array, element)
+end
 (using_include(array, element)).to eq(true)
 end
 using_sort(array)
