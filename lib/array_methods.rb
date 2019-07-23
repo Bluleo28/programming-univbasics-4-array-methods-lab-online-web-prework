@@ -5,7 +5,7 @@ end
 def using_sort(array)
 (using_sort(array).last) .to eq("arrays!")
 end
-def using_reverse(array) .first) .to eq( )
+def using_reverse(array) .first) .to eq("arrays!")
 end
 def using_first(array)
 
