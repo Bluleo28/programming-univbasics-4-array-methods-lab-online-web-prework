@@ -1,7 +1,7 @@
-using_include(array, element)
+def using_include(array, element)
 (using_include(array, element)).to eq(true)
 end
-using_sort(array)
+def using_sort(array)
 (using_sort(array).last) .to eq( )
 end
 def using_reverse(array)
